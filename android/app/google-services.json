@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62583278369",
+    "project_id": "docbaorss-1d30e",
+    "storage_bucket": "docbaorss-1d30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62583278369:android:1e4fa74b9236fec49e0c60",
+        "android_client_info": {
+          "package_name": "com.doan.docbaorss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62583278369-vr5iar3sbjc7dsnfcefccm8c14drqetd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNXQgjCTP1qpaq1bxNqcruc209tZoMFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62583278369-vr5iar3sbjc7dsnfcefccm8c14drqetd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
